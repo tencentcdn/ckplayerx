@@ -1,5 +1,12 @@
 {
   "update_logs": [
+        {
+      "version": "V7.1.6",
+      "changes": [
+        "test",
+       
+      ]
+    },
     {
       "version": "V7.1.5",
       "changes": [
